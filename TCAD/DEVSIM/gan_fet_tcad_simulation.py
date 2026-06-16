@@ -1,5 +1,4 @@
 ## Importing Libraries & Setting up the Environment.
-"""
 
 # Install DEVSIM on Colab Linux environment
 !pip install devsim -q
