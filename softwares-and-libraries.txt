@@ -1,0 +1,25 @@
+For running the project, you will need to install the following:
+
+1. Python 3.8 or higher.
+2. pip (Python package installer).
+3. Virtualenv (optional but recommended for creating isolated Python environments).
+4. MiniConda3 (optional if you prefer using Conda for managing dependencies).
+5. Google Colab (If you are unable to run the pip or miniconda3 due to convergence issues.)
+
+Best Recommendations:
+1. National Instruments (NI) Multisim 14.3 (For Circuit simulation).
+2. Cogenda Visual TCAD (For Device Simulation & Visual Representation of Mesh.)
+3. MathWorks MATLAB (For Graphing Purposes).
+
+OpenSource Alternatives:
+1. DEVSIM TCAD (Python based device simulation.)
+2. ParaView 6.1.1 (For Visual Representation.)
+
+For python libraries, you can install the required packages using pip. Create a virtual environment and download the following packages:
+
+1. devsim
+2. numpy
+3. matplotlib
+4. scipy
+
+Check requirements.txt file for greater info on python libraries.
