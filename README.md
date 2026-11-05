@@ -217,7 +217,7 @@ This manuscript and this Conference paper was the joint effort of my research pa
 
 Guides - 
 - Dr. Mahendra Kr. Das - Associate Professor, Dept. of ECE
-- Dr. Payal Bharadwaj - Assitant Professor, Dept. of ECE
+- Dr. Payal Bharadwaj - Assistant Professor, Dept. of ECE
 
 Research Partners - 
 - Shristi - BTECH/60002/24, Dept. of ECE
