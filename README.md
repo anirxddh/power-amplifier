@@ -220,7 +220,7 @@ Guides -
 - Dr. Payal Bharadwaj - Assistant Professor, Dept. of ECE
 
 Research Partners - 
-- Shristi - BTECH/60002/24, Dept. of ECE
+- Srishti - BTECH/60002/24, Dept. of ECE
 - Khushi - BTECH/60009/24, Dept. of ECE
 
 ## Scope and Limitations
