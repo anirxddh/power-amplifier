@@ -216,21 +216,24 @@ The current manuscript is available at [`ICCoSD-26_Manuscript.pdf`](./ICCoSD-26_
 This manuscript and this Conference paper was the joint effort of my research partners and 2 Professor Guides. I remain very grateful to them for giving me opportunity on working on such a project. Looking forward to working more with them :)
 
 Guides - 
-Dr. Mahendra Kr. Das - Associate Professor, Dept. of ECE
-Dr. Payal Bharadwaj - Assitant Professor, Dept. of ECE
+- Dr. Mahendra Kr. Das - Associate Professor, Dept. of ECE
+- Dr. Payal Bharadwaj - Assitant Professor, Dept. of ECE
 
 Research Partners - 
-Shristi - BTECH/60002/24, Dept. of ECE
-Khushi - BTECH/60009/24, Dept. of ECE
+- Shristi - BTECH/60002/24, Dept. of ECE
+- Khushi - BTECH/60009/24, Dept. of ECE
 
 ## Scope and Limitations
 
-- The repository contains figures and exported data, but not the original NI Multisim project file or a native Cogenda Visual TCAD project.
 - The GaN-to-silicon efficiency comparison uses an analytical loss model and extracted device parameters.
 - Switching losses, gate-drive losses, parasitic effects, thermal coupling, and hardware measurements are outside the current validation scope.
 - The DEVSIM notebook is a one-dimensional device model. It is useful for parameter investigation and visualization, but it does not replace a calibrated multidimensional production-device model.
 - The generated VTU files contain compressed/binary field arrays and should be opened through a VTK-compatible viewer rather than edited manually.
 - Some implementation values in the DEVSIM model and paper tables represent different modeling revisions; cite the manuscript for reported paper values and the source code/notebook for executable model values.
+
+## Future Work
+
+- Push forward towards building the project in 3 - Dimensional device model for better accuracy and parameter investigation.
 
 ## License
 
